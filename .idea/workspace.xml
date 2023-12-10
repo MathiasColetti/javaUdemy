@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sequencial/raio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequencial/raio.java" afterDir="false" />
-    </list>
+    <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702232651138</updated>
-      <workItem from="1702232652169" duration="2114000" />
+      <workItem from="1702232652169" duration="2440000" />
     </task>
     <servers />
   </component>
