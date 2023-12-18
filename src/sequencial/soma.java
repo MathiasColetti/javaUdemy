@@ -13,7 +13,6 @@ public class soma {
         num2 = sc.nextInt();
 
         soma = num2 + num1;
-
         System.out.println("A soma de " + num1 + "+" + num2 + "="+ soma);
     }
 }

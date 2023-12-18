@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/condicional/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicional/Exercicio02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicional/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicional/Exercicio04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/condicional/Exercicio05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sequencial/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sequencial/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/pessoa/TestePessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sequencial/soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sequencial/soma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +64,10 @@
       <workItem from="1702322579320" duration="981000" />
       <workItem from="1702390711842" duration="2361000" />
       <workItem from="1702408640371" duration="1259000" />
+      <workItem from="1702565601551" duration="1257000" />
+      <workItem from="1702897661001" duration="1299000" />
+      <workItem from="1702917657222" duration="1248000" />
+      <workItem from="1702931852493" duration="1306000" />
     </task>
     <servers />
   </component>
