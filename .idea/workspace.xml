@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/aplication/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/aplication/mainTriangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
+        &quot;associatedIndex&quot;: 4
+        }</component>
   <component name="ProjectId" id="2ZMWuBk8gkh2lEW3yiKsDt5J51D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.main.executor": "Run",
+    "Application.mainTriangulo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
