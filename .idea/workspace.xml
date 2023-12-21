@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/POO/Product/Product.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/POO/Product/main.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/POO/aplication/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/aplication/mainTriangulo.java" afterDir="false" />
+>>>>>>> a0459c51c73b8c80bbd162d5d103bbd813031180
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
         &quot;associatedIndex&quot;: 4
         }</component>
@@ -35,6 +44,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
+=======
+    "Application.main.executor": "Run",
+    "Application.mainTriangulo.executor": "Run",
+>>>>>>> a0459c51c73b8c80bbd162d5d103bbd813031180
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -49,6 +63,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< HEAD
+=======
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+>>>>>>> a0459c51c73b8c80bbd162d5d103bbd813031180
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,11 +85,18 @@
       <workItem from="1702251571051" duration="338000" />
       <workItem from="1702322579320" duration="981000" />
       <workItem from="1702390711842" duration="2361000" />
+<<<<<<< HEAD
       <workItem from="1702408640371" duration="1259000" />
       <workItem from="1702565601551" duration="1257000" />
       <workItem from="1702897661001" duration="1299000" />
       <workItem from="1702917657222" duration="1248000" />
       <workItem from="1702931852493" duration="1445000" />
+=======
+      <workItem from="1702408640371" duration="1418000" />
+      <workItem from="1702477343763" duration="1397000" />
+      <workItem from="1702479103042" duration="365000" />
+      <workItem from="1702586544882" duration="440000" />
+>>>>>>> a0459c51c73b8c80bbd162d5d103bbd813031180
     </task>
     <servers />
   </component>
