@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/exercicio01Array/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/exercicio01Array/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/DesafioPensionato/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/DesafioPensionato/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/DesafioPensionato/Quarto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Exercicio03/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Exercicio03/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Soma_Vetores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/exercicioLista/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/exercicioLista/mainFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nathan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +74,19 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.vetor.DesafioPensionato.Main" />
+      <module name="cursoJavaUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.vetor.DesafioPensionato.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestePessoa" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POO.pessoa.TestePessoa" />
       <module name="cursoJavaUdemy" />
@@ -79,6 +100,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -109,6 +135,11 @@
       <workItem from="1702479103042" duration="365000" />
       <workItem from="1702586544882" duration="440000" />
       <workItem from="1703293922893" duration="2494000" />
+      <workItem from="1703553551788" duration="1032000" />
+      <workItem from="1703554608477" duration="811000" />
+      <workItem from="1703597859756" duration="4348000" />
+      <workItem from="1703618350603" duration="2254000" />
+      <workItem from="1703704142392" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="XML">
       <option name="closed" value="true" />
