@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/DesafioPensionato/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/DesafioPensionato/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/DesafioPensionato/Quarto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Exercicio01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Exercicio03/Exercicio03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Exercicio03/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Soma_Vetores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/exercicioLista/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/vetor/exercicioLista/mainFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nathan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/vetor/Matriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataHora/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataHora/testeObjetoComDataHora/ConversaoDataHoraGlobalParaLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataHora/testeObjetoComDataHora/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataHora/testeObjetoComDataHora/TestePessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +64,11 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestePessoa">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.vetor.DesafioPensionato.Main" />
       <module name="cursoJavaUdemy" />
@@ -140,6 +135,9 @@
       <workItem from="1703597859756" duration="4348000" />
       <workItem from="1703618350603" duration="2254000" />
       <workItem from="1703704142392" duration="3259000" />
+      <workItem from="1703763971128" duration="330000" />
+      <workItem from="1703772200761" duration="5376000" />
+      <workItem from="1704722490482" duration="1803000" />
     </task>
     <task id="LOCAL-00001" summary="XML">
       <option name="closed" value="true" />
