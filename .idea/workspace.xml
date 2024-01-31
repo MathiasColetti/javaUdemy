@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/HourContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/WorkerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/aula02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/aula02/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/aula02/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,22 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TestePessoa.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.TestePessoa">
+}]]></component>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.vetor.DesafioPensionato.Main" />
       <module name="cursoJavaUdemy" />
@@ -108,7 +104,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
       </set>
     </attachedChunks>
   </component>
@@ -147,6 +143,7 @@
       <workItem from="1706020138559" duration="1588000" />
       <workItem from="1706106182042" duration="4913000" />
       <workItem from="1706630691767" duration="1587000" />
+      <workItem from="1706707199951" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="XML">
       <option name="closed" value="true" />
