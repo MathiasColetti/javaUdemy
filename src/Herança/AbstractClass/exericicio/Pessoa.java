@@ -1,4 +1,4 @@
-package Herança.AbstractClass.exercicio;
+package Herança.AbstractClass.exericicio;
 
 public abstract class Pessoa {
     public String nome;
@@ -23,5 +23,9 @@ public abstract class Pessoa {
 
     public void setRendaAnual(Double rendaAnual) {
         this.rendaAnual = rendaAnual;
+    }
+
+    public Double retornaImposto() {
+        return null;
     }
 }
