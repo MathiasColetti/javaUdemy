@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/Herança/aula01/SavingsAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Herança/aula01/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Herança/aula01/BusinessAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Herança/aula01/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Herança/aula01/main.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Herança/AbstractClass/exericicio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/AbstractClass/exericicio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/AbstractClass/exericicio/PessoaFisica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/AbstractClass/exericicio/PessoaJuridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Herança/AbstractClass/exercicio/Pessoa.java" beforeDir="false" />
+>>>>>>> refs/remotes/origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +63,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestePessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,7 +80,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestePessoa">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Herança.exercicio" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.vetor.DesafioPensionato.Main" />
       <module name="cursoJavaUdemy" />
@@ -103,7 +121,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
       </set>
     </attachedChunks>
   </component>
@@ -141,7 +160,16 @@
       <workItem from="1705453969417" duration="1872000" />
       <workItem from="1706020138559" duration="1588000" />
       <workItem from="1706106182042" duration="4913000" />
+<<<<<<< HEAD
       <workItem from="1706630691767" duration="2551000" />
+=======
+      <workItem from="1706630691767" duration="1587000" />
+      <workItem from="1706707199951" duration="1673000" />
+      <workItem from="1706804264341" duration="1565000" />
+      <workItem from="1706805844481" duration="818000" />
+      <workItem from="1707161003378" duration="2159000" />
+      <workItem from="1707246361562" duration="1644000" />
+>>>>>>> refs/remotes/origin/main
     </task>
     <task id="LOCAL-00001" summary="XML">
       <option name="closed" value="true" />
