@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/HourContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum/exercicios/exericio01/WorkerLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Herança/aula01/SavingsAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Herança/aula01/BusinessAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Herança/aula01/BusinessAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Herança/aula01/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Herança/aula01/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +141,7 @@
       <workItem from="1705453969417" duration="1872000" />
       <workItem from="1706020138559" duration="1588000" />
       <workItem from="1706106182042" duration="4913000" />
-      <workItem from="1706630691767" duration="1587000" />
+      <workItem from="1706630691767" duration="2551000" />
     </task>
     <task id="LOCAL-00001" summary="XML">
       <option name="closed" value="true" />

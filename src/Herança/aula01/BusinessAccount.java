@@ -23,6 +23,8 @@ public class BusinessAccount extends Account {
     public void loan(Double value){
         if (loanLimit <= value){
             this.balance += value - 10; //Taxa de emprestimo
+        }else {
+            System.out.println("Não foi possivel Fazer o emprestimo");
         }
     }
 }
