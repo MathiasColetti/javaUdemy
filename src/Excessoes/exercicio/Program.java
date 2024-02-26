@@ -17,13 +17,11 @@ public class Program {
         System.out.println("Check in Date (dd/MM/yyyy)");
         Date checkOut = simpleDateFormat.parse(scanner.next());
 
-        if (!checkOut.after(checkIn)){
+        if (!checkOut.after(checkIn)) {
             System.out.println("Error  in reservation Check=out date must be after check-in");
-        }else {
-            Reservation reservation = new Reservation(number,checkIn,checkOut);
+        } else {
+            Reservation reservation = new Reservation(number, checkIn, checkOut);
             System.out.println("Reservation " + reservation);
         }
-
-
     }
 }

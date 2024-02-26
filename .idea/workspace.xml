@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/Excessoes/exercicio/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Excessoes/exercicio/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c17af1ce-fe78-4dc3-bd70-0609212b3c2d" name="Changes" comment="XML" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +71,7 @@
       <recent name="Herança.exercicio" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestePessoa">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.vetor.DesafioPensionato.Main" />
       <module name="cursoJavaUdemy" />
