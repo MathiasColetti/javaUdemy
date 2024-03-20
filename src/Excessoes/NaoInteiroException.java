@@ -11,6 +11,7 @@ public class NaoInteiroException extends Exception{
 
     @Override
     public String toString() {
-        return "Nao"
+        return "Nao";
+
     }
 }
