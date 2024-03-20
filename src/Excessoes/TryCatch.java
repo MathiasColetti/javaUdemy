@@ -19,7 +19,6 @@ public class TryCatch {
         System.out.println("Metodo Start");
         Scanner scanner = new Scanner(System.in);
         try {
-
             String[] vect = scanner.nextLine().split(" ");
             int position = scanner.nextInt();
             System.out.println(vect[position]);

@@ -43,4 +43,13 @@ public class Reservation {
     public  void updateDate(Date newCheckin, Date newCheckout){
 
     }
+
+    @Override
+    public String toString() {
+        return "Reservation{" +
+                "roomNumber=" + roomNumber +
+                ", checkin=" + checkin +
+                ", checkout=" + checkout +
+                '}';
+    }
 }
