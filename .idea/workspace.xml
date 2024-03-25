@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d54eef3-e13c-4a25-be19-fe52e521078a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/RentalServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/exerciciodefixacao/Deal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Excessoes/NaoInteiroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excessoes/NaoInteiroException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,25 +23,66 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2e0TxARBceOtOWlusAY5CldeJE7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Excecao.executor": "Run",
     "Application.ExceptionGenerica.executor": "Run",
     "Application.MultiplosCatch.executor": "Run",
     "Application.Throws.executor": "Run",
+    "Application.application.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d54eef3-e13c-4a25-be19-fe52e521078a" name="Changes" comment="" />
+      <created>1711040741154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711040741154</updated>
+      <workItem from="1711040744781" duration="2475000" />
+      <workItem from="1711368110713" duration="1035000" />
+      <workItem from="1711369433958" duration="5303000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
